@@ -7,7 +7,6 @@
     --main-color :  #1A1A1A;
     --second-color : #F4C237;
     --body-color : #D0FCFF;
-
     --main-font:'rubik', sans-serif;
     --heading-font : 'Raleway', sans-serif;
 
@@ -72,7 +71,7 @@
 }
 
 .home-wrapper .home-left{
-    margin: 150px 70px;
+    margin: 149px 70px;
     align-items: center;
 
 }
