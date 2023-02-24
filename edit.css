@@ -26,6 +26,7 @@
     margin: 70px;
     font-family: var(--main-font);
     color: var(--main-color);
+    cursor: pointer;
 }
 
 .navbar-swipper  ul{
@@ -37,6 +38,10 @@
     font-weight: 500;
     padding-top: 10px;
     color:var(--main-color);
+}
+
+.navbar-swipper li:hover{
+    color: var(--second-color);
 }
 
 .navbar-swipper .btn-link   {
@@ -108,6 +113,7 @@
     color: var(--main-color);
     font-size: 16px;
     font-family: var(--main-font);
+    cursor: pointer;
 }
 
 .home-wrapper .home-right{
